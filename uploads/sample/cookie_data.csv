@@ -1,0 +1,5 @@
+IP,Date,Time,Accepted-cookies,Device type,Browser anguage,Browser name,OS Name,Country,Region,RegionName,City,Zipcode,Lat,Lon
+49.36.83.154,2023-06-10,11:24:47 UTC,necessary,desktop,en,Chrome,Linux,India,GJ,Gujarat,Surat,395007,21.1888,72.8293
+108.185.83.62,2023-10-26,18:17:06 UTC,necessary,desktop,en,Chrome,Windows,United States,CA,California,Downey,90242,33.9212,-118.1424
+108.185.83.62,2023-10-26,23:43:07 UTC,necessary,desktop,es,Edge,Windows,United States,CA,California,Downey,90242,33.9212,-118.1424
+108.185.83.62,2023-10-27,01:49:53 UTC,necessary,desktop,en,Chrome,Windows,United States,CA,California,Downey,90242,33.9212,-118.1424

@@ -1,0 +1,16 @@
+{
+    "name": "Fleet",
+    "alias": "Fleet",
+    "version": "1.0",
+    "description": "",
+    "keywords": [],
+    "priority": 86,
+    "providers": [
+        "Modules\\Fleet\\Providers\\FleetServiceProvider",
+        "Modules\\Fleet\\Providers\\EventServiceProvider"
+
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
